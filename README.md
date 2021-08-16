@@ -11,7 +11,7 @@ AVR-based supervisor for a 6809E microcomputer based on z80ctrl https://github.c
 ## Application
 
 ## Hardware note
-https://github.com/kuwatay/6809ctrl/
+https://github.com/kuwatay/6809ctrl/tree/main/hardware
 ## Supervisor sample session
 
 
